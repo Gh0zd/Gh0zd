@@ -6,14 +6,8 @@
   <a href="https://codepen.io/NotSaksh">Code Pen</a>
 </p>
 
-<p align="center"><br>
-  <a href="https://github.com/NotSaksh">
-    <img src="https://api.lanyard.rest/v1/users/691072980100317194"/>
-     </a>
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/691072980100317194)](https://discord.com/users/691072980100317194)
 
- <a href="https://api.lanyard.rest/v1/users/691072980100317194">
- 
 </a>
 
 <br><br>
