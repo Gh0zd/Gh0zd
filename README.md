@@ -8,7 +8,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/NotSaksh">
-    <img src="https://lanyard.cnrad.dev/api/921430546813419550"/>
+    <img src="https://api.lanyard.rest/v1/users/691072980100317194"/>
      </a>
 </p>
 
