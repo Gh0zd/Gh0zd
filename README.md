@@ -7,7 +7,10 @@
         <img src="./Banner.png" />
     </a>
 <p align="centro">
-  <img src="https://api.lanyard.rest/v1/users/691072980100317194" />
+    
+  <a href="https://api.lanyard.rest/v1/users/691072980100317194">
+  <img src="https://lanyard-profile-readme.vercel.app/api/691072980100317194?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
   
 <a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
 <a href="https://twitter.com/br_blacky"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-twitter-100.png" title="Telegrama"/></a>
