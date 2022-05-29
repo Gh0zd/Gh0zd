@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/cnrad/cnrad/main/wave.svg" alt=":wave:" />
 - 🔭 Actualmente estoy trabajando en proyectos de Advance Music Bot
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web
 <div alinear = "centro">
