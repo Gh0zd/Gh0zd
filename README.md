@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hola 👋, soy Carlos Ghozd</b><br>
+  <b>Hola 👋, Soy Carlos Ghozd</b><br>
   <a href="https://discord.io/chocomara">Discord</a> |
   <a href="https://www.instagram.com/carlos_ghozd/">Instagram</a> |
   <a href="https://twitter.com/CarlosGhozd">Twitter</a> |
