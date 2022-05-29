@@ -13,7 +13,7 @@
 </p>
 
  <a href="https://api.lanyard.rest/v1/users/691072980100317194">
-  <img src="https://lanyard-profile-readme.vercel.app/api/691072980100317194?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+ 
 </a>
 
 <br><br>
