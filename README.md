@@ -18,7 +18,9 @@
 
 </p>
 
-
+<p align="center"><br>
+<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/691074126583955577/widget.png?style=banner2"></a>
+</p>
 
 <br><br>
 <p align="center">
