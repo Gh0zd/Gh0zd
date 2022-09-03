@@ -1,5 +1,6 @@
 <p align='center'>
-  <b>Hola 👋, Soy Carlos Ghozd</b><br>
+  <b>Hola 👋, Soy Carlos Ghozd, ¡principalmente desarrollador de bots de Discord! </b><br>
+  <b>Trabajando desde 2020 en Bots </b><br>
   <a href="https://discord.io/chocomara">Discord</a> |
   <a href="https://www.instagram.com/carlos_ghozd/">Instagram</a> |
   <a href="https://twitter.com/CarlosGhozd">Twitter</a> |
@@ -11,6 +12,9 @@
     <img src="https://lanyard.cnrad.dev/api/691072980100317194"/>
      </a>
 </p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CarlosGhozd&theme=algolia" alt="CarlosGhozd" /></a> </p>
 
 
 <p align="center"><br>
