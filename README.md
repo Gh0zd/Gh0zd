@@ -46,8 +46,7 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CarlosGhozd&theme=discord" alt="CarlosGhozd" /></a> 
 </p>
 
- <a href="https://github.com/CarlosGhozd"><img alt="Gráfico de actividad" src="https://activity-graph.herokuapp.com/graph?username=CarlosGhozd&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" />
-    </a>
+
 
 
 
