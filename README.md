@@ -19,7 +19,7 @@
 <p align="center">  <b> Languages & Tools  </b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css, bootstrap, discord,mongodb,ps,replit,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,bootstrap,discord,mongodb,ps,replit,vscode" />
   </a>
 </p>
 
