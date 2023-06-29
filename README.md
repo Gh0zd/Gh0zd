@@ -15,7 +15,6 @@
      </a>
 </p>
 
-
 <p align="center"><br>
 <a href="https://discord.gg/dGB9fJ3azu" target="blank"><img align="center" src="https://img.shields.io/discord/710234245376770098?color=%237289da&label=Discord&logo=discord&logoColor=%23ffffff" alt="dGB9fJ3azu" /> </a> <a href="https://instagram.com/ghozd_" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&labelColor=5851DB&logo=instagram&logoColor=white&link=https://instagram.com/ghozd_" /></a> <a href="https://twitter.com/Ghozd_" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Ghozd_"  /></a> <a target="blank"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Gh0zd" alt="Visitantes" /></a>
 
@@ -25,6 +24,12 @@
     <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,bootstrap,discord,mongodb,ps,replit,vscode" />
   </a>
 </p>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <p align="center">
 <b>Mis estadísticas de Github</b><br>
@@ -39,3 +44,4 @@
 	<br>
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gh0zd&theme=discord" alt="Gh0zd" /></a> 
 </p>
+
