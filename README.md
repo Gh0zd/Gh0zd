@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ghozd&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
+</p>
 <p align='center'>
   <b>Hola 👋, Soy Ghozd </b><br>
   <a href="https://discord.io/chocomara">Discord</a> |
