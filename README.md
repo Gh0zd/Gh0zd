@@ -4,7 +4,7 @@
 <p align='center'>
   <b>Hola 👋, Soy Ghozd </b><br>
   <a href="https://discord.io/chocomara">Discord</a> |
-  <a href="https://www.instagram.com/ghozd_/">Instagram</a> |
+  <a href="https://www.instagram.com/ghozd.exe/">Instagram</a> |
   <a href="https://twitter.com/Ghozd_">Twitter</a> <br>
 <a>Soy principalmente un desarrollador de bots de Discord. Desde el año 2020, me he dedicado a crear bots y desarrollar aplicaciones web. </a>
 </p>
@@ -21,7 +21,7 @@
 <p align="center">  <b> Languages & Tools  </b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,bootstrap,discord,mongodb,ps,replit,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,bootstrap,c++,discord,mongodb,ps,replit,vscode" />
   </a>
 </p>
 
